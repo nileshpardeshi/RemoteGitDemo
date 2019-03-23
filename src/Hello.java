@@ -5,8 +5,9 @@ public class Hello {
 		// TODO Auto-generated method stub
 		System.out.println("hello git");
 		System.out.println("second commit");
-		
-		System.out.println("old branch commit");
+		//changes by feature 2 branch
+		System.out.println("feature 2 branch changes");
+		System.out.println("I am learining conflicts");
 		
 		
 
